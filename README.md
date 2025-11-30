@@ -1,9 +1,9 @@
 
 # EXPERIMENT-02-Interfacing-Multiple-Switches-for-LED-Control-Using-MicroPython
 
-Name : Harish M
+Name : MOHAMED FAROOK S
 Department : CSE-IOT
-Register No : 212224110021
+Register No : 21222310029
 
 ## AIM
 To interface multiple switches with the Raspberry Pi Pico and control LEDs using MicroPython.
